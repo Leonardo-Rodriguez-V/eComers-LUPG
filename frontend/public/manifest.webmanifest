@@ -1,0 +1,16 @@
+{
+  "name": "LevelUp",
+  "short_name": "LevelUp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "/assets/imag/setup.avif",
+      "sizes": "512x512",
+      "type": "image/avif",
+      "purpose": "any"
+    }
+  ]
+}
